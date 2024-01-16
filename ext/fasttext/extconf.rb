@@ -1,3 +1,4 @@
+require "rubygems"
 require "mkmf-rice"
 
 # -march=native not supported with ARM Mac
